@@ -1,6 +1,6 @@
 # weather-dashboard
 
-## User Story: Create a quiz using the following parameters:
+## User Story: Create a weather dashboard with the following:
 - Displays the weather of a city, including the temp, wind speed and humidity
 - Has an icon that displays the weather
 - Stores previous searches as a list
